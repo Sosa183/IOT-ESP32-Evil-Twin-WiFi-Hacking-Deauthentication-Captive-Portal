@@ -140,3 +140,4 @@ ESP32, Evil Twin, WiFi Hacking, Deauthentication, Captive Portal, HTML, CSS, Jav
 ```
 
 ---
+Albert Sosa:  NOTES FOR CSN 150
